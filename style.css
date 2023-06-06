@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color:orange;
+}
+body{
+    background-color: beige;
+}
+p{
+    color: rgba(0, 0, 255, 0.662);
+    text-decoration:solid;
+}
+h3{
+    color: orange;
+}
+ul{
+    color: chocolate;
+}
